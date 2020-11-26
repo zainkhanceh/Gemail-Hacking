@@ -41,7 +41,7 @@ print '[2] exit'
 option = input('==>')
 if option == 1:
    file_path = raw_input('path of passwords file :')
-else:
+else:kamimewah123
    system('clear')
    exit()
 pass_file = open(file_path,'r')
