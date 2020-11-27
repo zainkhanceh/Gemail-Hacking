@@ -40,7 +40,7 @@ print '[1] start the attack'
 print '[2] exit'
 option = input('==>')
 if option == 1:
-   file_path = raw_input('path of passwords file :')
+   file_path = raw_input('path of passwords file :kamimewah123')
 else:
    system('clear')
    exit()
